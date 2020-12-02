@@ -1,7 +1,17 @@
 # Curriculum-Empresa
 Esta es la parte de mi currículum donde subo todo mi progreso en el lenguaje de marcas. Cada dia voy aprendiendo más y tengo muchisimas ganas de poder trabajar y vivir de ello.
 
-Conocimientos:
+*Importante aquí listo por progresión las páginas web que he ido haciendo para ver 1 a 1 todas ellas, ver por progresión:
+
+-Primera prueba de web
+
+-Blog
+
+-Web completa
+
+-Web completa JS
+
+# Conocimientos:
 
 -Estudio unas 2h diarias diferentes lenguajes de marcas. Ahora sobretodo me estoy enfocando en el Back-End que es la parte que menos conocimiento tengo.
 
