@@ -2,6 +2,7 @@
 Esta es la parte de mi currículum donde subo todo mi progreso en el lenguaje de marcas. Cada dia voy aprendiendo más y tengo muchisimas ganas de poder trabajar y vivir de ello.
 
 Conocimientos:
+
 -Estudio unas 2h diarias diferentes lenguajes de marcas. Ahora sobretodo me estoy enfocando en el Back-End que es la parte que menos conocimiento tengo.
 
 -Tengo conocimientos sobre redacción, traducción y posicionamiento SEO y un curso hecho sobre ello, con una nota media final de 9.2. He trabajado de freelancer como redactor SEO, y en Publisuites soy usuario PREMIUM certificado, que ello conlleva más posibilidades de encontrar trabajos puntuales.
